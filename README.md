@@ -49,8 +49,8 @@ For Designers
 Repository Structure
 --------------------
 - designs/ - Adobe XD files for UI designs (.xd).
-- presentations/ - Project presentation files (e.g., .pptx, .pdf).
-- docs/ - Additional documentation (e.g., proposal, brochure in .docx, .pdf).
+- presentations/ - Project presentation files (.pptx).
+- docs/ - Additional documentation (e.g., proposal, brochure in .pdf).
 - screenshots/ - Screenshots of the application's UI.
 
 Screenshots
