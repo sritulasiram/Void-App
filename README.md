@@ -5,6 +5,8 @@ Void
 
 Developed by **Group DEM5C-G6**, the app aims to enhance communication, document handling, and progress tracking throughout the project lifecycle. This repository includes the Adobe XD design files, presentation materials, and supporting documentation.
 
+![Void Logo 2](https://github.com/user-attachments/assets/8d298250-7c83-4097-ac49-580424cc9f82)
+
 
 Aim
 -------
@@ -56,8 +58,7 @@ Repository Structure
 Screenshots
 -----------
 Below are example screenshots of the application's user interface:
-- Login Screen: screenshots/login_screen.png
-- Dashboard: screenshots/dashboard.png
+![Design](https://github.com/user-attachments/assets/75278596-ebb5-462e-a1dd-2ddaf4ad69c5)
 
 License
 -------
