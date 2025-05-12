@@ -1,24 +1,12 @@
 Void
 ====
 
-*Void* is an Android application designed to streamline final year project management for students and coordinators in the Mechanical Engineering Department at Polytechnic Ungku Omar. Developed by Group DEM5C-G6, this repository contains Adobe XD design files, project presentations, and related documentation.
+**_Void_** is a Final Year Project titled **"Online Student’s Project Management System"** — an Android application developed to streamline and simplify the management of final year projects for students and coordinators in the Mechanical Engineering Department at Polytechnic Ungku Omar. 
 
-Table of Contents
------------------
-- Purpose
-- Features
-  - For Students
-  - For Coordinators
-- Technologies Used
-- Getting Started
-  - For Designers
-  - For Developers
-- Repository Structure
-- Screenshots
-- License
-- Contact
+Developed by **Group DEM5C-G6**, the app aims to enhance communication, document handling, and progress tracking throughout the project lifecycle. This repository includes the Adobe XD design files, presentation materials, and supporting documentation.
 
-Purpose
+
+Aim
 -------
 The *Void* application simplifies final year project management by providing a centralized platform for communication, document submission, and progress tracking. It addresses challenges such as time-consuming meetings and unclear project guidelines, enhancing productivity for students, coordinators, and supervisors.
 
